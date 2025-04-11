@@ -1,28 +1,24 @@
-BSD 3-Clause License
+Restricted Use License
+Copyright (c) 2025 Maxwell Cameron
 
-Copyright (c) 2025, Max Cameron
+The software, including all associated files such as Python code, Flask applications, AWS CDK configurations, Dockerfiles, and documentation (collectively, the "Software"), is the proprietary work of the copyright holder. All rights are reserved except as explicitly granted below:
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+1. Permission Granted:
+   - You are granted a non-exclusive, non-transferable, royalty-free license to use, copy, modify, and execute the Software solely for non-commercial purposes. This includes personal use, educational purposes, and evaluation in non-commercial contexts (e.g., interview assessments or testing).
+   - Redistribution is permitted only for non-commercial purposes, provided this license and copyright notice are included in all copies or substantial portions of the Software.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+2. Restrictions:
+   - Commercial Use Prohibition: Any use of the Software for commercial purposes, including but not limited to deployment in a production environment for profit, sale, or use in a commercial service, is strictly prohibited without explicit written permission from the copyright holder.
+   - No Sublicensing: You may not sublicense the Software to third parties for any purpose.
+   - No Warranty: The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or noninfringement.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+3. Permission Requests:
+   - For commercial use or any use not explicitly permitted herein, contact the copyright holder at the original author.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+4. Termination:
+   - This license terminates automatically if you breach any of its terms. Upon termination, you must cease all use and destroy all copies of the Software in your possession.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+5. Governing Law:
+   - This license is governed by the laws of the United Kingdom.
+
+By using the Software, you agree to be bound by the terms of this license.

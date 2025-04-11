@@ -1,0 +1,23 @@
+[project]
+name = "ttwa"
+version = "0.1.0"
+description = "Three tier web app 2025"
+authors = [
+    {name = "Max Cameron", email = "max.cameron@stackboard.co.uk"},
+]
+dependencies = [
+    "aws-cdk-lib==2.90.0",
+    "constructs<11.0.0,>=10.0.0",
+    "pytest==7.3.1",
+]
+requires-python = ">=3.13"
+readme = "README.md"
+license = {text = "BSD"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = true

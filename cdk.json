@@ -1,0 +1,11 @@
+{
+    "app": "pdm run python src/ttwa/deployment.py",
+    "watch": {
+        "include": ["src/**/*.py"],
+        "exclude": ["cdk.out", ".venv"]
+    },
+    "context": {
+        "@aws-cdk/core:bootstrapQualifier": "hnb659fds",
+        "aws-cdk:enableDiffNoFail": "true"
+    }
+}
