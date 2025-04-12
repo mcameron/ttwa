@@ -1,6 +1,6 @@
 # CDK Hello World Application
 
-This repository contains an AWS CDK application that deploys a reasonably secure one shot, "Hello World" web application on Amazon ECS Fargate with supporting infrastructure across 3 Availability Zones.
+This repository contains an AWS CDK application that deploys a reasonably secure, one shot, "Hello World" web application on Amazon ECS Fargate with supporting infrastructure across 3 Availability Zones.
 
 That said, this repository depends on nodejs, is not fully complete, and I do not recommend it's use for production workloads at this time.
 
